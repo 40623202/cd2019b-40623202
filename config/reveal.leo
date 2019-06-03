@@ -27,7 +27,7 @@
 <v t="leo.20190419014519.1" a="E"><vh>week1</vh>
 <v t="leo.20190419014519.2"><vh>w1</vh></v>
 </v>
-<v t="leo.20190419014518.1"><vh>week2</vh>
+<v t="leo.20190419014518.1" a="E"><vh>week2</vh>
 <v t="leo.20190419014518.2"><vh>w2</vh></v>
 </v>
 <v t="leo.20190419014516.1"><vh>week3</vh>
@@ -460,14 +460,12 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20190419131456.2">## 協同產品設計
 
-### 手足球模擬-bg2
-
 &lt;small&gt;
-Created by [第二組](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g2)
+Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 &lt;/small&gt;
 
 &lt;small&gt;
-[BLOG](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/blog/)
+[BLOG](https://40623202.github.io/cd2019b-40623202/blog/)
 &lt;/small&gt;
 
 </t>
