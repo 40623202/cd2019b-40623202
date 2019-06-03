@@ -632,7 +632,7 @@ function cmsFilePicker(callback, value, meta) {
         password="admin"
         hashed_password = hashlib.sha512(password.encode('utf-8')).hexdigest()
         with open(config_dir + "config", "w", encoding="utf-8") as f:
-            f.write("siteTitle:協同產品設計 \npassword:"+hashed_password)
+            f.write("siteTitle:CMSimfly \npassword:"+hashed_password)
     config = file_get_contents(config_dir + "config")
     config_data = config.split("\n")
     site_title = config_data[0].split(":")[1]
