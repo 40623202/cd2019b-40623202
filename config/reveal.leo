@@ -21,7 +21,7 @@
 <v t="leo.20180902120523.6" a="E"><vh>body</vh>
 <v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190419131456.1"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190419014519.1" a="E"><vh>week1</vh>
@@ -30,26 +30,53 @@
 <v t="leo.20190419014518.1" a="E"><vh>week2</vh>
 <v t="leo.20190419014518.2"><vh>w2</vh></v>
 </v>
-<v t="leo.20190419014516.1"><vh>week3</vh>
+<v t="leo.20190419014516.1" a="E"><vh>week3</vh>
 <v t="leo.20190419014516.2"><vh>w3</vh></v>
 </v>
-<v t="leo.20190419014515.1"><vh>week4</vh>
+<v t="leo.20190419014515.1" a="E"><vh>week4</vh>
 <v t="leo.20190419014515.2"><vh>w4</vh></v>
 </v>
-<v t="leo.20190419014513.1"><vh>week5</vh>
+<v t="leo.20190419014513.1" a="E"><vh>week5</vh>
 <v t="leo.20190419014513.2"><vh>w5</vh></v>
 </v>
-<v t="leo.20190419014511.1" a="E"><vh>week6</vh>
+<v t="leo.20190419014511.1"><vh>week6</vh>
 <v t="leo.20190419014511.2"><vh>w6</vh></v>
 </v>
-<v t="leo.20190419014510.1" a="E"><vh>week7</vh>
+<v t="leo.20190419014510.1"><vh>week7</vh>
 <v t="leo.20190419014510.2"><vh>w7</vh></v>
 </v>
-<v t="leo.20190419014508.1" a="E"><vh>week8</vh>
+<v t="leo.20190419014508.1"><vh>week8</vh>
 <v t="leo.20190419014508.2"><vh>w8</vh></v>
 </v>
-<v t="leo.20190419014505.1" a="E"><vh>week9</vh>
+<v t="leo.20190419014505.1"><vh>week9</vh>
 <v t="leo.20190419014505.2"><vh>w9</vh></v>
+</v>
+<v t="leo.20190603234013.1" a="E"><vh>week10</vh>
+<v t="leo.20190603234013.2"><vh>w10</vh></v>
+</v>
+<v t="leo.20190603234011.1" a="E"><vh>week11</vh>
+<v t="leo.20190603234011.2"><vh>w11</vh></v>
+</v>
+<v t="leo.20190603234007.1" a="E"><vh>week12</vh>
+<v t="leo.20190603234007.2"><vh>w12</vh></v>
+</v>
+<v t="leo.20190603234124.1" a="E"><vh>week13</vh>
+<v t="leo.20190603234124.2"><vh>w13</vh></v>
+</v>
+<v t="leo.20190603234123.1" a="E"><vh>week14</vh>
+<v t="leo.20190603234123.2"><vh>w14</vh></v>
+</v>
+<v t="leo.20190603234121.1" a="E"><vh>week15</vh>
+<v t="leo.20190603234121.2"><vh>w15</vh></v>
+</v>
+<v t="leo.20190603234119.1" a="E"><vh>week16</vh>
+<v t="leo.20190603234119.2"><vh>w16</vh></v>
+</v>
+<v t="leo.20190603234118.1" a="E"><vh>week17</vh>
+<v t="leo.20190603234118.2"><vh>w17</vh></v>
+</v>
+<v t="leo.20190603234115.1" a="E"><vh>week18</vh>
+<v t="leo.20190603234115.2"><vh>w18</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -467,6 +494,121 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 &lt;small&gt;
 [BLOG](https://40623202.github.io/cd2019b-40623202/blog/)
 &lt;/small&gt;
+
+</t>
+<t tx="leo.20190603234007.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190603234007.2"># Week12
+
+
+
+</t>
+<t tx="leo.20190603234011.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190603234011.2"># Week11
+
+
+
+</t>
+<t tx="leo.20190603234013.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190603234013.2"># Week10
+
+
+</t>
+<t tx="leo.20190603234115.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190603234115.2"># Week18</t>
+<t tx="leo.20190603234118.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190603234118.2"># Week17
+
+
+</t>
+<t tx="leo.20190603234119.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190603234119.2"># Week16
+
+
+</t>
+<t tx="leo.20190603234121.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190603234121.2"># Week15
+
+</t>
+<t tx="leo.20190603234123.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190603234123.2"># Week14
+
+
+</t>
+<t tx="leo.20190603234124.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190603234124.2"># Week13
+
 
 </t>
 </tnodes>
