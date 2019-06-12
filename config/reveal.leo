@@ -24,33 +24,6 @@
 <v t="leo.20190419131456.1"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190419014519.1" a="E"><vh>week1</vh>
-<v t="leo.20190419014519.2"><vh>w1</vh></v>
-</v>
-<v t="leo.20190419014518.1" a="E"><vh>week2</vh>
-<v t="leo.20190419014518.2"><vh>w2</vh></v>
-</v>
-<v t="leo.20190419014516.1" a="E"><vh>week3</vh>
-<v t="leo.20190419014516.2"><vh>w3</vh></v>
-</v>
-<v t="leo.20190419014515.1" a="E"><vh>week4</vh>
-<v t="leo.20190419014515.2"><vh>w4</vh></v>
-</v>
-<v t="leo.20190419014513.1" a="E"><vh>week5</vh>
-<v t="leo.20190419014513.2"><vh>w5</vh></v>
-</v>
-<v t="leo.20190419014511.1"><vh>week6</vh>
-<v t="leo.20190419014511.2"><vh>w6</vh></v>
-</v>
-<v t="leo.20190419014510.1"><vh>week7</vh>
-<v t="leo.20190419014510.2"><vh>w7</vh></v>
-</v>
-<v t="leo.20190419014508.1"><vh>week8</vh>
-<v t="leo.20190419014508.2"><vh>w8</vh></v>
-</v>
-<v t="leo.20190419014505.1"><vh>week9</vh>
-<v t="leo.20190419014505.2"><vh>w9</vh></v>
-</v>
 <v t="leo.20190603234013.1" a="E"><vh>week10</vh>
 <v t="leo.20190603234013.2"><vh>w10</vh></v>
 </v>
@@ -337,145 +310,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20190419014505.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014505.2"># Week9
-
-* 期中考週，各組需完成手足球模擬的任務。
-
-</t>
-<t tx="leo.20190419014508.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014508.2"># Week8
-
-* 在更新Blog時無法正常地更改內容，
-原因:在w5的隨身系統裡少了pelican所以無法正確的更新。
-
-</t>
-<t tx="leo.20190419014510.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014510.2"># Week7
-
-* 清明節連假
-
-
-</t>
-<t tx="leo.20190419014511.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014511.2"># Week6
-
-* 閱讀BubbleRob Tutorial，練習使用v-rep模擬。
-
-</t>
-<t tx="leo.20190419014513.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014513.2"># Week5
-
-* 在使用.ssh時因為在home底下沒有設置個人rsa檔，
-所以在推送時會發生衝突,只有一開始推成功的人才有權限，
-而在.ssh下的config裡也要設定身分這樣才不會發生衝突。
-
-
-
-</t>
-<t tx="leo.20190419014515.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014515.2"># Week4
-
-* 設定在.ssh時所需要用的Public Keys， 這樣可以避免在別人面前推送時打帳密被別人看到， 利用Public Keys在ungit上快速推送。
-
-
-
-</t>
-<t tx="leo.20190419014516.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014516.2"># Week3
-
-* 亂數分組，開始分組任務-手足球模擬。
-* 講解ungit的使用方法。
-
-
-</t>
-<t tx="leo.20190419014518.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014518.2"># Week2
-
-* 二二八連假
-
-
-</t>
-<t tx="leo.20190419014519.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014519.2"># Week1
-
-* 說明本學期上課內容及評分方式。
-* 學習如何建立可攜程式。
-
-
-</t>
 <t tx="leo.20190419131456.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -546,7 +380,9 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 
 						
 </t>
-<t tx="leo.20190603234115.2"># Week18</t>
+<t tx="leo.20190603234115.2"># Week18
+
+</t>
 <t tx="leo.20190603234118.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
