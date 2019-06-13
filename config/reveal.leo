@@ -21,21 +21,23 @@
 <v t="leo.20180902120523.6" a="E"><vh>body</vh>
 <v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190419131456.1"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190603234013.1" a="E"><vh>week10</vh>
+<v t="leo.20190603234013.1"><vh>week10</vh>
 <v t="leo.20190603234013.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20190603234011.1" a="E"><vh>week11</vh>
+<v t="leo.20190603234011.1"><vh>week11</vh>
 <v t="leo.20190603234011.2"><vh>w11</vh></v>
 </v>
-<v t="leo.20190603234007.1" a="E"><vh>week12</vh>
+<v t="leo.20190603234007.1"><vh>week12</vh>
 <v t="leo.20190603234007.2"><vh>w12</vh></v>
 </v>
-<v t="leo.20190603234124.1" a="E"><vh>week13</vh>
-<v t="leo.20190614014734.1"><vh>w13</vh></v>
-<v t="leo.20190603234124.2"><vh>w13-1</vh></v>
+<v t="leo.20190614015955.1" a="E"><vh>week13</vh>
+<v t="leo.20190614015955.2"><vh>w13</vh></v>
+</v>
+<v t="leo.20190603234124.1" a="E"><vh>week13-2</vh>
+<v t="leo.20190603234124.2"><vh>w13-2</vh></v>
 </v>
 <v t="leo.20190603234123.1" a="E"><vh>week14~16</vh>
 <v t="leo.20190603234123.2"><vh>w14~16</vh></v>
@@ -391,7 +393,7 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 						
 </t>
 <t tx="leo.20190603234118.2"># Week17
-1. 完成手足球模擬規劃報告
+1. 完成手足球模擬規劃
 2. 期末心得報告影片
 
 </t>
@@ -424,7 +426,16 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/78nI091R5_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20190614014734.1"># Week13
+<t tx="leo.20190614015955.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614015955.2"># Week13
 1. 進行手足球基本操作的模擬
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PH-y6gFfJIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
