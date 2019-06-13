@@ -436,7 +436,7 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 						
 </t>
 <t tx="leo.20190614015955.2"># Week13
-1. 進行手足球基本操作的模擬
+1.進行手足球基本操作的模擬
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PH-y6gFfJIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
