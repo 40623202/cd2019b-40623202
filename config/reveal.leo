@@ -21,7 +21,7 @@
 <v t="leo.20180902120523.6" a="E"><vh>body</vh>
 <v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20190419131456.1"><vh>封面投影片</vh>
+<v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190603234013.1" a="E"><vh>week10</vh>
@@ -51,7 +51,7 @@
 <v t="leo.20190603234115.1" a="E"><vh>week18</vh>
 <v t="leo.20190603234115.2"><vh>w18</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180902120523.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -319,7 +319,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190419131456.2">## 協同產品設計
+<t tx="leo.20190419131456.2">## 協同產品設計-期末報告
 
 &lt;small&gt;
 Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
@@ -340,7 +340,10 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 						
 </t>
 <t tx="leo.20190603234007.2"># Week12
+1. 開始規劃手足球模擬的進度
 
+2. 進行手足球基本操作的模擬 
+&lt;iframe src="https://www.youtube.com/watch?v=dyp852-2TzY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -354,7 +357,9 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 						
 </t>
 <t tx="leo.20190603234011.2"># Week11
+1. 確定分配任務 : 手足球求模擬執行規劃，與組員進行初步規畫討論。
 
+2. 對全班期末倉儲進行fork，並了解pull request的使用方式。
 
 
 </t>
