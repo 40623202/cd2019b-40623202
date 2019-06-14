@@ -42,10 +42,13 @@
 <v t="leo.20190603234123.1" a="E"><vh>week14~16</vh>
 <v t="leo.20190603234123.2"><vh>w14~16</vh></v>
 </v>
-<v t="leo.20190603234118.1" a="E"><vh>week17</vh>
+<v t="leo.20190603234118.1"><vh>week17</vh>
 <v t="leo.20190603234118.2"><vh>w17</vh></v>
 </v>
-<v t="leo.20190603234115.1" a="E"><vh>week18</vh>
+<v t="leo.20190614132747.1" a="E"><vh>自評</vh>
+<v t="leo.20190614132747.2"><vh>self</vh></v>
+</v>
+<v t="leo.20190603234115.1"><vh>week18</vh>
 <v t="leo.20190603234115.2"><vh>w18</vh></v>
 </v>
 <v t="leo.20180902120523.13" a="E"><vh>各式內容引用範例</vh>
@@ -441,6 +444,18 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 <t tx="leo.20190614015955.2"># Week13
 1.進行手足球基本操作的模擬
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PH-y6gFfJIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190614132747.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614132747.2"># 自評分數 : 65
+
 </t>
 </tnodes>
 </leo_file>
