@@ -42,7 +42,7 @@
 <v t="leo.20190603234123.1" a="E"><vh>week14~16</vh>
 <v t="leo.20190603234123.2"><vh>w14~16</vh></v>
 </v>
-<v t="leo.20190603234118.1"><vh>week17</vh>
+<v t="leo.20190603234118.1" a="E"><vh>week17</vh>
 <v t="leo.20190603234118.2"><vh>w17</vh></v>
 </v>
 <v t="leo.20190614132747.1" a="E"><vh>自評</vh>
@@ -398,8 +398,8 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 						
 </t>
 <t tx="leo.20190603234118.2"># Week17
-1. 完成手足球模擬規劃
-2. 期末心得報告影片
+1.完成手足球模擬規劃
+2.期末心得報告影片
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bW3vqJRxjdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
