@@ -21,7 +21,7 @@
 <v t="leo.20180902120523.6" a="E"><vh>body</vh>
 <v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20190419131456.1"><vh>封面投影片</vh>
+<v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190603234013.1" a="E"><vh>week10</vh>
@@ -388,7 +388,10 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 						
 </t>
 <t tx="leo.20190603234115.2"># Week18
-期末考週
+娃娃機分組設計模擬
+&lt;small&gt;
+[BLOG](https://40623202.github.io/cd2019b-40623202/content/%E6%9C%9F%E6%9C%AB%E6%B8%AC%E9%A9%97-%E5%A4%BE%E5%A8%83%E5%A8%83%E6%A9%9F.html)
+&lt;/small&gt;
 
 </t>
 <t tx="leo.20190603234118.1">&lt;section data-markdown&gt;
