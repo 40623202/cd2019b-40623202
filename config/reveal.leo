@@ -455,7 +455,11 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 						
 </t>
 <t tx="leo.20190614132747.2"># 自評分數 : 65
-
+* 學員出席 (20%):100
+* Github 倉儲管理  (20%):100
+* Onshape 協同操作 (20%):62
+* V-rep 模擬 (20%):63
+* 程式開發 (20%):0
 </t>
 <t tx="leo.20190614133255.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
