@@ -389,9 +389,8 @@ Created by [40623202吳姍蓉](https://github.com/40623202/cd2019b-40623202)
 </t>
 <t tx="leo.20190603234115.2"># Week18
 娃娃機分組設計模擬
-&lt;small&gt;
-[BLOG](https://40623202.github.io/cd2019b-40623202/content/%E6%9C%9F%E6%9C%AB%E6%B8%AC%E9%A9%97-%E5%A4%BE%E5%A8%83%E5%A8%83%E6%A9%9F.html)
-&lt;/small&gt;
+
+[相關連結](https://40623202.github.io/cd2019b-40623202/content/%E6%9C%9F%E6%9C%AB%E6%B8%AC%E9%A9%97-%E5%A4%BE%E5%A8%83%E5%A8%83%E6%A9%9F.html)
 
 </t>
 <t tx="leo.20190603234118.1">&lt;section data-markdown&gt;
